@@ -1,0 +1,41 @@
+# ninja log v5
+12	96	0	C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/cmake.verify_globs	9bc189cb5bccc21c
+103	214	7405381769220994	client_app_autogen/timestamp	82574f965c7c7f03
+103	214	7405381769220994	client_app_autogen/mocs_compilation.cpp	82574f965c7c7f03
+220	4187	7405381808953086	CMakeFiles/client_app.dir/mainwindow.cpp.obj	8776060b7e4c0105
+515	4332	7405349398834933	CMakeFiles/client_app.dir/main.cpp.obj	8bf9f21c9d8ff73a
+230	4120	7405381808218752	CMakeFiles/client_app.dir/signupwindow.cpp.obj	a828e82315853686
+103	214	7405381769220994	C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/client_app_autogen/timestamp	82574f965c7c7f03
+241	4534	7405381812321224	CMakeFiles/client_app.dir/gencertificatewindow.cpp.obj	389a941c439fd0fd
+415	945	7349860119882703	CMakeFiles/client_app.dir/socket_connect.cpp.obj	b3e56305971e56cd
+103	214	7405381769220994	C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/client_app_autogen/mocs_compilation.cpp	82574f965c7c7f03
+512	4720	7405349402898467	CMakeFiles/client_app.dir/client_app_autogen/mocs_compilation.cpp.obj	4817d0e972fb16ec
+92	663	7397643838405506	build.ninja	dfba5e35bbb71370
+76	97	0	CMakeFiles/clean.additional	baedbe210acaa455
+97	106	0	clean	423d399e6810f01
+4535	4744	7405381814045294	client_app.exe	a6b83a1ca4862924
+223	3988	7405381806958981	CMakeFiles/client_app.dir/DeviceController.cpp.obj	62ce8fea9429abb0
+237	4210	7405381809109440	CMakeFiles/client_app.dir/genkeywindow.cpp.obj	3db2943dff3a7759
+226	4165	7405381808724227	CMakeFiles/client_app.dir/loginwindow.cpp.obj	5d70f366eb7492c2
+784	3726	7397575804324794	CMakeFiles/client_app.dir/filechoosingwindow.cpp.obj	3e787caa0d0c472f
+233	4467	7405381811688212	CMakeFiles/client_app.dir/fileuploadwindow.cpp.obj	117dd7c44943a707
+18	98	0	C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/cmake.verify_globs	9bc189cb5bccc21c
+111	225	7405382883453596	client_app_autogen/timestamp	82574f965c7c7f03
+111	225	7405382883453596	client_app_autogen/mocs_compilation.cpp	82574f965c7c7f03
+111	225	7405382883453596	C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/client_app_autogen/timestamp	82574f965c7c7f03
+111	225	7405382883453596	C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/client_app_autogen/mocs_compilation.cpp	82574f965c7c7f03
+234	3952	7405382920713689	CMakeFiles/client_app.dir/DeviceController.cpp.obj	62ce8fea9429abb0
+240	3995	7405382921029536	CMakeFiles/client_app.dir/signupwindow.cpp.obj	a828e82315853686
+231	4104	7405382922234895	CMakeFiles/client_app.dir/mainwindow.cpp.obj	8776060b7e4c0105
+237	4116	7405382922363807	CMakeFiles/client_app.dir/loginwindow.cpp.obj	5d70f366eb7492c2
+248	4135	7405382922514307	CMakeFiles/client_app.dir/genkeywindow.cpp.obj	3db2943dff3a7759
+244	4432	7405382925425037	CMakeFiles/client_app.dir/fileuploadwindow.cpp.obj	117dd7c44943a707
+253	4482	7405382925896822	CMakeFiles/client_app.dir/gencertificatewindow.cpp.obj	389a941c439fd0fd
+4482	4667	7405382927472651	client_app.exe	a6b83a1ca4862924
+17	97	0	C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/cmake.verify_globs	9bc189cb5bccc21c
+11	97	0	C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/cmake.verify_globs	9bc189cb5bccc21c
+11	96	0	C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/cmake.verify_globs	9bc189cb5bccc21c
+12	95	0	C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/cmake.verify_globs	9bc189cb5bccc21c
+21	213	0	C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/cmake.verify_globs	9bc189cb5bccc21c
+11	94	0	C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/cmake.verify_globs	9bc189cb5bccc21c
+19	115	0	C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/cmake.verify_globs	9bc189cb5bccc21c

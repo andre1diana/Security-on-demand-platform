@@ -1,0 +1,10 @@
+acesta este un fisier care contine un mesaj - exemplu - pentru aplicatia mea DidiSecurity. Acesta aplicatie este cea mai buna pentru securitate! Recomand cu incredere si va rog sa o folositi... Continui acest mesaj
+Mesajul este, în sensul cel mai general, obiectul comunicării. El este definit ca informația sau enunțul verbal pe care emițătorul o trimite către receptor prin intermediul unui canal de comunicare sau mijloc de comunicare (cum ar fi de vorbirea sau scrierea, de exemplu).[1] Cu toate acestea, termenul se aplică, de asemenea, în funcție de context, prezentării informației, adică simbolurilor folosite pentru a transmite mesajul. În orice caz, mesajul este o parte fundamentală a procesului de schimb de informații.
+
+Definiție comună
+În scris, un text scurt care transmite, într-un limbaj simplu, informații de la o persoană care este absentă în momentul scrierii.
+Orice gând sau o idee exprimată pe scurt și pregătită pentru a fi transmisă prin orice mijloc de comunicare.
+O cantitate arbitrară de informații al cărui început și sfârșit sunt definite sau sunt identificabile.
+Informații înregistrate, un flux de date exprimate într-o notație obișnuită sau criptică și pregătit într-un format specific pentru a fi transmis prin orice mijloc de telecomunicații.
+Mesajul electronic (sau scrisoarea electronică) este acel mesaj care este transmis de o persoană prin e-mail. Este echivalentul electronic al scrisorii tradiționale scrise de mână sau tipărite, de obicei, pe hârtie și transportată fizic prin poștă.
+Astăzi este folosit, de asemenea, termenul mesagerie instantanee pentru toate sistemele de telecomunicații, care permit trimiterea de mesaje text instantaneu către utilizatorii conectați la o rețea care oferă acest serviciu.

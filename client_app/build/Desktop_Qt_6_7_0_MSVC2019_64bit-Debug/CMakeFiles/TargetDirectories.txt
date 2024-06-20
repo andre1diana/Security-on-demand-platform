@@ -1,0 +1,8 @@
+C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/client_app.dir
+C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/client_app_autogen_timestamp_deps.dir
+C:/Users/Didi/Documents/Anul2_Diana/Sem 2/POO-P/client_app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/client_app_autogen.dir

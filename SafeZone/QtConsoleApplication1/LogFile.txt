@@ -1,0 +1,299 @@
+Thu Jun 20 01:02:57 2024 - 127.0.0.1 : 1 : Connected!
+Thu Jun 20 01:02:59 2024 - 1 : Received int :  1000
+Thu Jun 20 01:02:59 2024 - 1 : Received int :  5
+Thu Jun 20 01:02:59 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:02:59 2024 - 1 : Received int :  8
+Thu Jun 20 01:02:59 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:02:59 2024 - diana : 1001 : Login accepted!
+Thu Jun 20 01:02:59 2024 - 1 : Send int :  1001
+Thu Jun 20 01:03:07 2024 - 1 : Received int :  1020
+Thu Jun 20 01:03:07 2024 - 1 : Execute Encrypt on file with mode  1020
+Thu Jun 20 01:03:07 2024 -  : 1 : Server receive file : 
+Thu Jun 20 01:03:07 2024 - 1 : Received int :  18
+Thu Jun 20 01:03:07 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:03:07 2024 - 1 : Received int :  799
+Thu Jun 20 01:03:07 2024 - Dear future me.txt : 1 : File received and saved successfully.
+Thu Jun 20 01:03:07 2024 - 1 : Send int :  9997
+Thu Jun 20 01:03:07 2024 -  : 1 : Server start to sent file to client
+Thu Jun 20 01:03:07 2024 - 1 : Send int :  18
+Thu Jun 20 01:03:07 2024 -  : 1 : Send data to client!
+Thu Jun 20 01:03:07 2024 - 1 : Send int :  800
+Thu Jun 20 01:03:07 2024 - 1 : Sent total of bytes :  512
+Thu Jun 20 01:03:07 2024 - 1 : Sent total of bytes :  288
+Thu Jun 20 01:03:07 2024 - Dear future me.enc : 1 : File sent successfully.
+Thu Jun 20 01:03:37 2024 - 1 : Received int :  1024
+ERORR -- 10054 : Error Server (receiveInt) : Receive int failed.
+Thu Jun 20 01:09:42 2024 - 127.0.0.1 : 1 : Connected!
+Thu Jun 20 01:09:44 2024 - 1 : Received int :  1000
+Thu Jun 20 01:09:44 2024 - 1 : Received int :  5
+Thu Jun 20 01:09:44 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:09:44 2024 - 1 : Received int :  8
+Thu Jun 20 01:09:44 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:09:44 2024 - diana : 1001 : Login accepted!
+Thu Jun 20 01:09:44 2024 - 1 : Send int :  1001
+Thu Jun 20 01:09:51 2024 - 1 : Received int :  1020
+Thu Jun 20 01:09:51 2024 - 1 : Execute Encrypt on file with mode  1020
+Thu Jun 20 01:09:51 2024 -  : 1 : Server receive file : 
+Thu Jun 20 01:09:51 2024 - 1 : Received int :  18
+Thu Jun 20 01:09:51 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:09:51 2024 - 1 : Received int :  799
+Thu Jun 20 01:09:51 2024 - Dear future me.txt : 1 : File received and saved successfully.
+Thu Jun 20 01:09:51 2024 - 1 : Send int :  9997
+Thu Jun 20 01:09:51 2024 -  : 1 : Server start to sent file to client
+Thu Jun 20 01:09:51 2024 - 1 : Send int :  18
+Thu Jun 20 01:09:51 2024 -  : 1 : Send data to client!
+Thu Jun 20 01:09:52 2024 - 1 : Send int :  800
+Thu Jun 20 01:09:52 2024 - 1 : Sent total of bytes :  512
+Thu Jun 20 01:09:52 2024 - 1 : Sent total of bytes :  288
+Thu Jun 20 01:09:52 2024 - Dear future me.enc : 1 : File sent successfully.
+ERORR -- 10054 : Error Server (receiveInt) : Receive int failed.
+Thu Jun 20 01:11:43 2024 - 127.0.0.1 : 1 : Connected!
+Thu Jun 20 01:11:45 2024 - 1 : Received int :  1000
+Thu Jun 20 01:11:45 2024 - 1 : Received int :  5
+Thu Jun 20 01:11:45 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:11:45 2024 - 1 : Received int :  8
+Thu Jun 20 01:11:45 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:11:45 2024 - diana : 1001 : Login accepted!
+Thu Jun 20 01:11:45 2024 - 1 : Send int :  1001
+Thu Jun 20 01:11:53 2024 - 1 : Received int :  1020
+Thu Jun 20 01:11:53 2024 - 1 : Execute Encrypt on file with mode  1020
+Thu Jun 20 01:11:53 2024 -  : 1 : Server receive file : 
+Thu Jun 20 01:11:53 2024 - 1 : Received int :  18
+Thu Jun 20 01:11:53 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:11:53 2024 - 1 : Received int :  799
+Thu Jun 20 01:11:53 2024 - Dear future me.txt : 1 : File received and saved successfully.
+Thu Jun 20 01:11:53 2024 - 1 : Send int :  9997
+Thu Jun 20 01:11:53 2024 -  : 1 : Server start to sent file to client
+Thu Jun 20 01:11:53 2024 - 1 : Send int :  18
+Thu Jun 20 01:11:53 2024 -  : 1 : Send data to client!
+Thu Jun 20 01:11:53 2024 - 1 : Send int :  800
+Thu Jun 20 01:11:53 2024 - 1 : Sent total of bytes :  512
+Thu Jun 20 01:11:53 2024 - 1 : Sent total of bytes :  288
+Thu Jun 20 01:11:53 2024 - Dear future me.enc : 1 : File sent successfully.
+Thu Jun 20 01:11:58 2024 - 1 : Received int :  1023
+Thu Jun 20 01:12:14 2024 - 127.0.0.1 : 1 : Connected!
+Thu Jun 20 01:12:15 2024 - 1 : Received int :  1000
+Thu Jun 20 01:12:15 2024 - 1 : Received int :  5
+Thu Jun 20 01:12:15 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:12:15 2024 - 1 : Received int :  8
+Thu Jun 20 01:12:15 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:12:15 2024 - diana : 1001 : Login accepted!
+Thu Jun 20 01:12:15 2024 - 1 : Send int :  1001
+Thu Jun 20 01:12:24 2024 - 1 : Received int :  1020
+Thu Jun 20 01:12:24 2024 - 1 : Execute Encrypt on file with mode  1020
+Thu Jun 20 01:12:24 2024 -  : 1 : Server receive file : 
+Thu Jun 20 01:12:24 2024 - 1 : Received int :  18
+Thu Jun 20 01:12:24 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:12:24 2024 - 1 : Received int :  799
+Thu Jun 20 01:12:24 2024 - Dear future me.txt : 1 : File received and saved successfully.
+Thu Jun 20 01:12:24 2024 - 1 : Send int :  9997
+Thu Jun 20 01:12:24 2024 -  : 1 : Server start to sent file to client
+Thu Jun 20 01:12:24 2024 - 1 : Send int :  18
+Thu Jun 20 01:12:24 2024 -  : 1 : Send data to client!
+Thu Jun 20 01:12:24 2024 - 1 : Send int :  800
+Thu Jun 20 01:12:24 2024 - 1 : Sent total of bytes :  512
+Thu Jun 20 01:12:24 2024 - 1 : Sent total of bytes :  288
+Thu Jun 20 01:12:24 2024 - Dear future me.enc : 1 : File sent successfully.
+Thu Jun 20 01:12:29 2024 - 1 : Received int :  1023
+ERORR -- 10054 : Error Server (receiveInt) : Receive int failed.
+Thu Jun 20 01:13:11 2024 - 127.0.0.1 : 1 : Connected!
+Thu Jun 20 01:13:12 2024 - 1 : Received int :  1000
+Thu Jun 20 01:13:12 2024 - 1 : Received int :  5
+Thu Jun 20 01:13:12 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:13:12 2024 - 1 : Received int :  8
+Thu Jun 20 01:13:12 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:13:12 2024 - diana : 1001 : Login accepted!
+Thu Jun 20 01:13:12 2024 - 1 : Send int :  1001
+Thu Jun 20 01:13:21 2024 - 1 : Received int :  1020
+Thu Jun 20 01:13:21 2024 - 1 : Execute Encrypt on file with mode  1020
+Thu Jun 20 01:13:21 2024 -  : 1 : Server receive file : 
+Thu Jun 20 01:13:21 2024 - 1 : Received int :  18
+Thu Jun 20 01:13:21 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:13:21 2024 - 1 : Received int :  799
+Thu Jun 20 01:13:21 2024 - Dear future me.txt : 1 : File received and saved successfully.
+Thu Jun 20 01:13:21 2024 - 1 : Send int :  9997
+Thu Jun 20 01:13:21 2024 -  : 1 : Server start to sent file to client
+Thu Jun 20 01:13:21 2024 - 1 : Send int :  18
+Thu Jun 20 01:13:21 2024 -  : 1 : Send data to client!
+Thu Jun 20 01:13:21 2024 - 1 : Send int :  800
+Thu Jun 20 01:13:21 2024 - 1 : Sent total of bytes :  512
+Thu Jun 20 01:13:21 2024 - 1 : Sent total of bytes :  288
+Thu Jun 20 01:13:21 2024 - Dear future me.enc : 1 : File sent successfully.
+Thu Jun 20 01:13:27 2024 - 1 : Received int :  1023
+Thu Jun 20 01:13:48 2024 - 1 : Received int :  1030
+Thu Jun 20 01:13:48 2024 - diana : 1 : Execute Decrypt on file.
+Thu Jun 20 01:13:48 2024 -  : 1 : Server receive file : 
+Thu Jun 20 01:13:48 2024 - 1 : Received int :  18
+Thu Jun 20 01:13:48 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:13:48 2024 - 1 : Received int :  800
+Thu Jun 20 01:13:48 2024 - Dear future me.enc : 1 : File received and saved successfully.
+Thu Jun 20 01:13:48 2024 - 1 : Send int :  9997
+Thu Jun 20 01:13:48 2024 -  : 1 : Server start to sent file to client
+Thu Jun 20 01:13:48 2024 - 1 : Send int :  22
+Thu Jun 20 01:13:48 2024 -  : 1 : Send data to client!
+Thu Jun 20 01:13:48 2024 - 1 : Send int :  799
+Thu Jun 20 01:13:48 2024 - 1 : Sent total of bytes :  512
+Thu Jun 20 01:13:48 2024 - 1 : Sent total of bytes :  287
+Thu Jun 20 01:13:48 2024 - Dear future me_dec.txt : 1 : File sent successfully.
+Thu Jun 20 01:13:54 2024 - 1 : Received int :  1023
+Thu Jun 20 01:14:21 2024 - 1 : Received int :  9999
+Thu Jun 20 01:14:58 2024 - 127.0.0.1 : 1 : Connected!
+Thu Jun 20 01:15:00 2024 - 1 : Received int :  1000
+Thu Jun 20 01:15:00 2024 - 1 : Received int :  5
+Thu Jun 20 01:15:00 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:15:00 2024 - 1 : Received int :  8
+Thu Jun 20 01:15:00 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:15:00 2024 - diana : 1001 : Login accepted!
+Thu Jun 20 01:15:00 2024 - 1 : Send int :  1001
+Thu Jun 20 01:15:11 2024 - 1 : Received int :  1041
+Thu Jun 20 01:15:11 2024 - 1 : Execute Hash on file with mode  1041
+Thu Jun 20 01:15:11 2024 -  : 1 : Server receive file : 
+Thu Jun 20 01:15:11 2024 - 1 : Received int :  18
+Thu Jun 20 01:15:11 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:15:11 2024 - 1 : Received int :  799
+Thu Jun 20 01:15:11 2024 - Dear future me.txt : 1 : File received and saved successfully.
+Thu Jun 20 01:15:11 2024 - 1 : Send int :  9997
+Thu Jun 20 01:15:11 2024 -  : 1 : Server start to sent file to client
+Thu Jun 20 01:15:11 2024 - 1 : Send int :  23
+Thu Jun 20 01:15:11 2024 -  : 1 : Send data to client!
+Thu Jun 20 01:15:11 2024 - 1 : Send int :  32
+Thu Jun 20 01:15:11 2024 - 1 : Sent total of bytes :  32
+Thu Jun 20 01:15:11 2024 - Dear future me_hash.txt : 1 : File sent successfully.
+Thu Jun 20 01:15:17 2024 - 1 : Received int :  1023
+Thu Jun 20 01:15:34 2024 - 1 : Received int :  1051
+Thu Jun 20 01:15:34 2024 - 1 : Execute Key generation with mode  1051
+Thu Jun 20 01:15:34 2024 - 1 : Received int :  4
+Thu Jun 20 01:15:34 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:15:34 2024 - 1 : Received int :  1024
+Thu Jun 20 01:15:34 2024 - 1 : Send int :  1023
+Thu Jun 20 01:15:35 2024 - 1 : Received int :  1052
+Thu Jun 20 01:15:35 2024 - 1 : Received int :  4
+Thu Jun 20 01:15:35 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:15:35 2024 - 1 : Send int :  530
+Thu Jun 20 01:15:35 2024 -  : 1 : Send data to client!
+Thu Jun 20 01:15:35 2024 - 1 : Send int :  662
+Thu Jun 20 01:15:35 2024 -  : 1 : Send data to client!
+Thu Jun 20 01:15:35 2024 -  : 1 : Client downloaded the key.
+Thu Jun 20 01:16:24 2024 - 1 : Received int :  9999
+Thu Jun 20 01:22:41 2024 - 127.0.0.1 : 1 : Connected!
+Thu Jun 20 01:22:43 2024 - 1 : Received int :  1000
+Thu Jun 20 01:22:43 2024 - 1 : Received int :  5
+Thu Jun 20 01:22:43 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:22:43 2024 - 1 : Received int :  8
+Thu Jun 20 01:22:43 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:22:43 2024 - diana : 1001 : Login accepted!
+Thu Jun 20 01:22:43 2024 - 1 : Send int :  1001
+Thu Jun 20 01:22:54 2024 - 1 : Received int :  1020
+Thu Jun 20 01:22:54 2024 - 1 : Execute Encrypt on file with mode  1020
+Thu Jun 20 01:22:54 2024 -  : 1 : Server receive file : 
+Thu Jun 20 01:22:54 2024 - 1 : Received int :  18
+Thu Jun 20 01:22:54 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:22:54 2024 - 1 : Received int :  799
+Thu Jun 20 01:22:54 2024 - Dear future me.txt : 1 : File received and saved successfully.
+Thu Jun 20 01:22:54 2024 - 1 : Send int :  9997
+Thu Jun 20 01:22:54 2024 -  : 1 : Server start to sent file to client
+Thu Jun 20 01:22:54 2024 - 1 : Send int :  18
+Thu Jun 20 01:22:54 2024 -  : 1 : Send data to client!
+Thu Jun 20 01:22:54 2024 - 1 : Send int :  800
+Thu Jun 20 01:22:54 2024 - 1 : Sent total of bytes :  512
+Thu Jun 20 01:22:54 2024 - 1 : Sent total of bytes :  288
+Thu Jun 20 01:22:54 2024 - Dear future me.enc : 1 : File sent successfully.
+Thu Jun 20 01:23:00 2024 - 1 : Received int :  1023
+Thu Jun 20 01:23:19 2024 - 1 : Received int :  1030
+Thu Jun 20 01:23:19 2024 - diana : 1 : Execute Decrypt on file.
+Thu Jun 20 01:23:19 2024 -  : 1 : Server receive file : 
+Thu Jun 20 01:23:19 2024 - 1 : Received int :  18
+Thu Jun 20 01:23:19 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:23:19 2024 - 1 : Received int :  800
+Thu Jun 20 01:23:19 2024 - Dear future me.enc : 1 : File received and saved successfully.
+Thu Jun 20 01:23:19 2024 - 1 : Send int :  9997
+Thu Jun 20 01:23:19 2024 -  : 1 : Server start to sent file to client
+Thu Jun 20 01:23:19 2024 - 1 : Send int :  22
+Thu Jun 20 01:23:19 2024 -  : 1 : Send data to client!
+Thu Jun 20 01:23:19 2024 - 1 : Send int :  799
+Thu Jun 20 01:23:19 2024 - 1 : Sent total of bytes :  512
+Thu Jun 20 01:23:19 2024 - 1 : Sent total of bytes :  287
+Thu Jun 20 01:23:19 2024 - Dear future me_dec.txt : 1 : File sent successfully.
+Thu Jun 20 01:23:25 2024 - 1 : Received int :  1023
+Thu Jun 20 01:23:47 2024 - 1 : Received int :  9999
+Thu Jun 20 01:32:14 2024 - 127.0.0.1 : 1 : Connected!
+Thu Jun 20 01:32:16 2024 - 1 : Received int :  1000
+Thu Jun 20 01:32:16 2024 - 1 : Received int :  5
+Thu Jun 20 01:32:16 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:32:16 2024 - 1 : Received int :  8
+Thu Jun 20 01:32:16 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:32:16 2024 - diana : 1002 : Login declined!
+Thu Jun 20 01:32:16 2024 - 1 : Send int :  1002
+Thu Jun 20 01:32:27 2024 - 1 : Received int :  1010
+Thu Jun 20 01:32:27 2024 - 1 : Received int :  5
+Thu Jun 20 01:32:27 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:32:27 2024 - 1 : Received int :  8
+Thu Jun 20 01:32:27 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:32:27 2024 - diana : 1011 : Sign up accepted!
+Thu Jun 20 01:32:27 2024 - 1 : Send int :  1011
+Thu Jun 20 01:32:36 2024 - 1 : Received int :  1000
+Thu Jun 20 01:32:36 2024 - 1 : Received int :  5
+Thu Jun 20 01:32:36 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:32:36 2024 - 1 : Received int :  8
+Thu Jun 20 01:32:36 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:32:36 2024 - diana : 1001 : Login accepted!
+Thu Jun 20 01:32:36 2024 - 1 : Send int :  1001
+Thu Jun 20 01:33:03 2024 - 1 : Received int :  1060
+Thu Jun 20 01:33:03 2024 -  : 1 : Execute certificate geneartion.
+Thu Jun 20 01:33:03 2024 - 1 : Received int :  5
+Thu Jun 20 01:33:03 2024 - 1 : Received int :  1953654115
+ERORR -- 1 : Server (receiveData) : failed to receive data
+Thu Jun 20 01:33:03 2024 -  : 1 : Received data from client!
+Thu Jun 20 01:33:40 2024 - 1 : Received int :  1022
+Thu Jun 20 01:33:40 2024 -  : 1 : Received data from client!
+Thu Jun 20 10:48:04 2024 - 127.0.0.1 : 1 : Connected!
+Thu Jun 20 10:48:06 2024 - 1 : Received int :  1000
+Thu Jun 20 10:48:06 2024 - 1 : Received int :  5
+Thu Jun 20 10:48:06 2024 -  : 1 : Received data from client!
+Thu Jun 20 10:48:06 2024 - 1 : Received int :  8
+Thu Jun 20 10:48:06 2024 -  : 1 : Received data from client!
+Thu Jun 20 10:48:06 2024 - diana : 1002 : Login declined!
+Thu Jun 20 10:48:06 2024 - 1 : Send int :  1002
+Thu Jun 20 10:48:09 2024 - 1 : Received int :  1010
+Thu Jun 20 10:48:09 2024 - 1 : Received int :  5
+Thu Jun 20 10:48:09 2024 -  : 1 : Received data from client!
+Thu Jun 20 10:48:09 2024 - 1 : Received int :  8
+Thu Jun 20 10:48:09 2024 -  : 1 : Received data from client!
+Thu Jun 20 10:48:09 2024 - diana : 1011 : Sign up accepted!
+Thu Jun 20 10:48:09 2024 - 1 : Send int :  1011
+Thu Jun 20 10:48:18 2024 - 1 : Received int :  1000
+Thu Jun 20 10:48:18 2024 - 1 : Received int :  5
+Thu Jun 20 10:48:18 2024 -  : 1 : Received data from client!
+Thu Jun 20 10:48:18 2024 - 1 : Received int :  8
+Thu Jun 20 10:48:18 2024 -  : 1 : Received data from client!
+Thu Jun 20 10:48:18 2024 - diana : 1001 : Login accepted!
+Thu Jun 20 10:48:18 2024 - 1 : Send int :  1001
+Thu Jun 20 10:48:39 2024 - 1 : Received int :  1050
+Thu Jun 20 10:48:39 2024 - 1 : Execute Key generation with mode  1050
+Thu Jun 20 10:48:39 2024 - 1 : Received int :  4
+Thu Jun 20 10:48:39 2024 -  : 1 : Received data from client!
+Thu Jun 20 10:48:39 2024 - 1 : Received int :  1024
+Thu Jun 20 10:48:39 2024 - 1 : Send int :  1023
+Thu Jun 20 10:49:05 2024 - 1 : Received int :  1060
+Thu Jun 20 10:49:05 2024 -  : 1 : Execute certificate geneartion.
+Thu Jun 20 10:49:05 2024 - 1 : Received int :  4
+Thu Jun 20 10:49:05 2024 -  : 1 : Received data from client!
+Thu Jun 20 10:49:05 2024 - 1 : Received int :  4
+Thu Jun 20 10:49:05 2024 -  : 1 : Received data from client!
+Thu Jun 20 10:49:05 2024 - 1 : Received int :  2
+Thu Jun 20 10:49:05 2024 -  : 1 : Received data from client!
+Thu Jun 20 10:49:05 2024 - 1 : Received int :  3
+Thu Jun 20 10:49:05 2024 -  : 1 : Received data from client!
+Thu Jun 20 10:49:05 2024 - 1 : Received int :  6
+Thu Jun 20 10:49:05 2024 -  : 1 : Received data from client!
+Thu Jun 20 10:49:05 2024 - 1 : Received int :  365
+Thu Jun 20 10:49:05 2024 - 1 : Send int :  1023
+Thu Jun 20 10:49:05 2024 -  : 1 : Server start to sent file to client
+Thu Jun 20 10:49:05 2024 - 1 : Send int :  8
+Thu Jun 20 10:49:05 2024 -  : 1 : Send data to client!
+Thu Jun 20 10:49:05 2024 - 1 : Send int :  684
+Thu Jun 20 10:49:05 2024 - 1 : Sent total of bytes :  512
+Thu Jun 20 10:49:05 2024 - 1 : Sent total of bytes :  172
+Thu Jun 20 10:49:05 2024 - cert.pem : 1 : File sent successfully.
+Thu Jun 20 10:49:11 2024 - 1 : Received int :  1023
+Thu Jun 20 10:49:32 2024 - 1 : Received int :  9999
